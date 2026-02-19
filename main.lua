@@ -1,5 +1,5 @@
 if game.PlaceId == (3851622790) then -- Break In Story Lobby
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Bebo-Mods/XHub/main/BreakInStoryLobby.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KenzoSSto1/X-Hub-Lobby-Remakes/main/BreakInStoryLobby.lua", true))()
 elseif game.PlaceId == (4620170611) then -- Break In Story Main
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Bebo-Mods/XHub/main/BreakInStoryMain.lua", true))()
 else
